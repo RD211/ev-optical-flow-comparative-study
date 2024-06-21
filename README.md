@@ -1,7 +1,6 @@
 # Comparative Study of Model-based and Learning-based Optical Flow Estimation Methods with Event Cameras
 
 ## David Dinucu-Jianu
-### Supervisor(s): Nergis Tömen, Hesam Araghi
 ### Thesis committee: Nergis Tömen, Hesam Araghi, Guohao Lan
 
 ## Abstract
