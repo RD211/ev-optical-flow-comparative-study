@@ -1,0 +1,18 @@
+[submodule "TMA"]
+	path = TMA
+	url = https://github.com/ispc-lab/TMA
+[submodule "TamCM"]
+	path = TamCM
+	url = https://github.com/tudelft/taming_event_flow
+[submodule "IDNet"]
+	path = IDNet
+	url = https://github.com/tudelft/idnet
+[submodule "MultiCM"]
+	path = MultiCM
+	url = https://github.com/tub-rip/event_based_optical_flow
+[submodule "RT"]
+	path = RT
+	url = https://github.com/heudiasyc/rt_of_low_high_res_event_cameras
+[submodule "E-RAFT"]
+	path = E-RAFT
+	url = https://github.com/uzh-rpg/E-RAFT
